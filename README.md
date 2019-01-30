@@ -1,2 +1,2 @@
-# H1 About
+# About
 This is my first time actually exploring HTML
