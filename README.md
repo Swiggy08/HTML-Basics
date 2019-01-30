@@ -1,2 +1,2 @@
 # About
-This is my first time actually exploring HTML
+This is my first time actually exploring HTML whhops
